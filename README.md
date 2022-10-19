@@ -1,2 +1,3 @@
-#Recipes
-This little website, made using html,  will have links to recipe.
+# Recipes
+A recipe website made purely using HTML
+Recipes courtesy of allrecipes.com
